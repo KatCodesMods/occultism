@@ -26,6 +26,8 @@ import com.klikli_dev.occultism.common.blockentity.GoldenSacrificialBowlBlockEnt
 import com.klikli_dev.occultism.registry.OccultismTiles;
 import com.klikli_dev.occultism.util.StorageUtil;
 import net.minecraft.core.BlockPos;
+import net.minecraft.server.level.ServerPlayer;
+import net.minecraft.core.Direction;
 import net.minecraft.world.InteractionHand;
 import net.minecraft.world.InteractionResult;
 import net.minecraft.world.entity.player.Player;
@@ -86,8 +88,8 @@ public class GoldenSacrificialBowlBlock extends Block implements EntityBlock {
     public InteractionResult use(BlockState state, Level level, BlockPos pos, Player player,
                                  InteractionHand hand, BlockHitResult hit) {
         BlockEntity blockEntity = level.getBlockEntity(pos);
-        if (blockEntity instanceof GoldenSacrificialBowlBlockEntity bowl) {
-            return bowl.activate(level, pos, player, hand,
+        if (blockEntity instanceof GoldenSacrificialBowlBlockEntity bowl && player instanceof ServerPlayer serverPlayer) {
+            return bowl.activate(level, pos, serverPlayer, hand,
                     hit.getDirection()) ? InteractionResult.SUCCESS : InteractionResult.PASS;
         }
         return super.use(state, level, pos, player, hand, hit);
@@ -97,6 +99,16 @@ public class GoldenSacrificialBowlBlock extends Block implements EntityBlock {
     @SuppressWarnings("deprecation")
     public VoxelShape getShape(BlockState state, BlockGetter worldIn, BlockPos pos, CollisionContext context) {
         return SHAPE;
+    }
+
+    @SuppressWarnings("deprecation")
+    @Override
+    public int getSignal(BlockState pBlockState, BlockGetter pBlockAccess, BlockPos pPos, Direction pSide) {
+        BlockEntity blockEntity = pBlockAccess.getBlockEntity(pPos);
+        if (blockEntity instanceof GoldenSacrificialBowlBlockEntity bowl) {
+            return bowl.getSignal(pBlockState, pBlockAccess, pPos, pSide);
+        }
+        return 0;
     }
 
     @Nullable
