@@ -4,6 +4,91 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [release/v1.20.1-1.151.0] - 2025-08-29
+### :sparkles: New Features
+- [`bcfe9a1`](https://github.com/klikli-dev/occultism/commit/bcfe9a196bb7af69cf964c59459f45c5a0a8fe22) - New Crowdin updates *(PR [#1414](https://github.com/klikli-dev/occultism/pull/1414) by [@klikli-dev](https://github.com/klikli-dev))*
+
+
+## [release/v1.20.1-1.150.0] - 2025-08-29
+### :sparkles: New Features
+- [`772577f`](https://github.com/klikli-dev/occultism/commit/772577fd8dcc9a4d0f5e27d1811df2890b2dabe1) - New Crowdin updates *(PR [#1413](https://github.com/klikli-dev/occultism/pull/1413) by [@klikli-dev](https://github.com/klikli-dev))*
+
+
+## [release/v1.20.1-1.149.0] - 2025-08-28
+### :sparkles: New Features
+- [`d0bc904`](https://github.com/klikli-dev/occultism/commit/d0bc904213c615338ad858966d8debaca541ee0f) - New translations en_us.json (Chinese Simplified) *(PR [#1408](https://github.com/klikli-dev/occultism/pull/1408) by [@klikli-dev](https://github.com/klikli-dev))*
+
+
+## [release/v1.20.1-1.148.0] - 2025-08-23
+### :sparkles: New Features
+- [`c7e7bef`](https://github.com/klikli-dev/occultism/commit/c7e7bef83d0ded86a760d8e73c7075313bb0b180) - New translations en_us.json (French) *(PR [#1405](https://github.com/klikli-dev/occultism/pull/1405) by [@klikli-dev](https://github.com/klikli-dev))*
+- [`22baa24`](https://github.com/klikli-dev/occultism/commit/22baa24f0fb7d14c4a00918e6dd6e5a1e32986e3) - New translations en_us.json (Chinese Traditional) *(PR [#1407](https://github.com/klikli-dev/occultism/pull/1407) by [@klikli-dev](https://github.com/klikli-dev))*
+
+
+## [release/v1.20.1-1.147.0] - 2025-08-01
+### :sparkles: New Features
+- [`21a3735`](https://github.com/klikli-dev/occultism/commit/21a3735efb744603da3295e6e7369b3649efdaea) - New translations en_us.json (Russian) *(PR [#1392](https://github.com/klikli-dev/occultism/pull/1392) by [@klikli-dev](https://github.com/klikli-dev))*
+
+
+## [release/v1.20.1-1.146.0] - 2025-07-30
+### :sparkles: New Features
+- [`0f2999d`](https://github.com/klikli-dev/occultism/commit/0f2999d7aaa2b2436451bc8c159730a45ea2d765) - New translations en_us.json (Portuguese, Brazilian) *(PR [#1389](https://github.com/klikli-dev/occultism/pull/1389) by [@klikli-dev](https://github.com/klikli-dev))*
+
+### :wrench: Chores
+- [`7b6f20b`](https://github.com/klikli-dev/occultism/commit/7b6f20b2493a27b32d870b1c612bb2264b984876) - temp rename for case change *(commit by [@klikli-dev](https://github.com/klikli-dev))*
+- [`aaf9419`](https://github.com/klikli-dev/occultism/commit/aaf941958b0bc6eae3e3bec450884fccb67ee958) - rename to lowercase *(commit by [@klikli-dev](https://github.com/klikli-dev))*
+- [`423d121`](https://github.com/klikli-dev/occultism/commit/423d121ff886d204b095435379344ae9747a6b0f) - temp rename for case change *(commit by [@klikli-dev](https://github.com/klikli-dev))*
+- [`c57aaa0`](https://github.com/klikli-dev/occultism/commit/c57aaa0154c6909314a7e01df8bbbff3f4ac44a9) - rename to lowercase *(commit by [@klikli-dev](https://github.com/klikli-dev))*
+
+
+## [release/v1.20.1-1.145.0] - 2025-07-30
+### :sparkles: New Features
+- [`354ce00`](https://github.com/klikli-dev/occultism/commit/354ce00c518cbd9279383fec693b971974f1e53e) - New translations en_us.json (Portuguese, Brazilian) *(PR [#1388](https://github.com/klikli-dev/occultism/pull/1388) by [@klikli-dev](https://github.com/klikli-dev))*
+
+
+## [release/v1.20.1-1.144.0] - 2025-07-29
+### :sparkles: New Features
+- [`7cb7521`](https://github.com/klikli-dev/occultism/commit/7cb75218ba076c28ef01b7e71e279a59ee9af1cb) - New Crowdin updates *(PR [#1384](https://github.com/klikli-dev/occultism/pull/1384) by [@klikli-dev](https://github.com/klikli-dev))*
+
+### :wrench: Chores
+- [`644f6c0`](https://github.com/klikli-dev/occultism/commit/644f6c079919b2909b6ce09a612044ace73cbefa) - file touched *(commit by [@klikli-dev](https://github.com/klikli-dev))*
+
+
+## [release/v1.20.1-1.143.0] - 2025-07-29
+### :sparkles: New Features
+- [`d9452de`](https://github.com/klikli-dev/occultism/commit/d9452de9a283ef756acde7aeea6bf298963e9b0c) - New Crowdin updates *(PR [#1379](https://github.com/klikli-dev/occultism/pull/1379) by [@klikli-dev](https://github.com/klikli-dev))*
+- [`8bc2e65`](https://github.com/klikli-dev/occultism/commit/8bc2e6536b53bc573788de97ee9940719d417562) - New Crowdin updates *(PR [#1380](https://github.com/klikli-dev/occultism/pull/1380) by [@klikli-dev](https://github.com/klikli-dev))*
+
+### :wrench: Chores
+- [`fa7d6cf`](https://github.com/klikli-dev/occultism/commit/fa7d6cf45c24731773728ac45341a8082198876c) - remove provider (ruru for 1.20.1 is coming from crowdin) *(commit by [@klikli-dev](https://github.com/klikli-dev))*
+
+
+## [release/v1.20.1-1.142.0] - 2025-07-29
+### :sparkles: New Features
+- [`a826058`](https://github.com/klikli-dev/occultism/commit/a8260586f1cc828362b4744ccfec0931a530b770) - New Crowdin updates *(PR [#1373](https://github.com/klikli-dev/occultism/pull/1373) by [@klikli-dev](https://github.com/klikli-dev))*
+
+
+## [release/v1.20.1-1.141.4] - 2025-03-20
+### :bug: Bug Fixes
+- [`3551d4d`](https://github.com/klikli-dev/occultism/commit/3551d4da384e0d9da49619ad2290bb851da659db) - ritual dummies not registered as output of emi recipe category *(PR [#1321](https://github.com/klikli-dev/occultism/pull/1321) by [@Tomska95](https://github.com/Tomska95))*
+
+
+## [release/v1.20.1-1.141.3] - 2025-02-25
+### :bug: Bug Fixes
+- [`e4ac109`](https://github.com/klikli-dev/occultism/commit/e4ac10968be7333197cc383643cf7e48f3f8fb65) - ensure beholder can deal damage even if owner player cannot be retrieved *(commit by [@klikli-dev](https://github.com/klikli-dev))*
+
+
+## [release/v1.20.1-1.141.2] - 2025-02-05
+### :bug: Bug Fixes
+- [`17d537a`](https://github.com/klikli-dev/occultism/commit/17d537a4ed38196792880d72bd60eeaaf63f5eee) - update to theurgy particle changes *(commit by [@klikli-dev](https://github.com/klikli-dev))*
+- [`f2ee8ea`](https://github.com/klikli-dev/occultism/commit/f2ee8ea10121065c740bb98be4ae6801525d70aa) - incorrect name for japanese translation file *(PR [#1294](https://github.com/klikli-dev/occultism/pull/1294) by [@ThePixelatedCat](https://github.com/ThePixelatedCat))*
+
+
+## [release/v1.20.1-1.141.0] - 2025-02-04
+### :sparkles: New Features
+- [`c9ddc2d`](https://github.com/klikli-dev/occultism/commit/c9ddc2d69817eb62a7a9d496982a915ca611f563) - Backported fixes to client and server side EMI autofilling in the dimensional storage device, resolving issues [#1282](https://github.com/klikli-dev/occultism/pull/1282) and [#1255](https://github.com/klikli-dev/occultism/pull/1255) *(PR [#1292](https://github.com/klikli-dev/occultism/pull/1292) by [@ThePixelatedCat](https://github.com/ThePixelatedCat))*
+
+
 ## [release/v1.20.1-1.140.2] - 2024-11-19
 ### :wrench: Chores
 - [`786e8c4`](https://github.com/klikli-dev/occultism/commit/786e8c436af5f3d6f1fa217fd4d2a911a20d70cc) - update discord invite link *(commit by [@klikli-dev](https://github.com/klikli-dev))*
@@ -1253,3 +1338,17 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 [release/v1.20.1-1.139.1]: https://github.com/klikli-dev/occultism/compare/release/v1.20.1-1.139.0...release/v1.20.1-1.139.1
 [release/v1.20.1-1.140.1]: https://github.com/klikli-dev/occultism/compare/release/v1.20.1-1.140.0...release/v1.20.1-1.140.1
 [release/v1.20.1-1.140.2]: https://github.com/klikli-dev/occultism/compare/release/v1.20.1-1.140.1...release/v1.20.1-1.140.2
+[release/v1.20.1-1.141.0]: https://github.com/klikli-dev/occultism/compare/release/v1.20.1-1.140.2...release/v1.20.1-1.141.0
+[release/v1.20.1-1.141.2]: https://github.com/klikli-dev/occultism/compare/release/v1.20.1-1.141.0...release/v1.20.1-1.141.2
+[release/v1.20.1-1.141.3]: https://github.com/klikli-dev/occultism/compare/release/v1.20.1-1.141.2...release/v1.20.1-1.141.3
+[release/v1.20.1-1.141.4]: https://github.com/klikli-dev/occultism/compare/release/v1.20.1-1.141.3...release/v1.20.1-1.141.4
+[release/v1.20.1-1.142.0]: https://github.com/klikli-dev/occultism/compare/release/v1.20.1-1.141.4...release/v1.20.1-1.142.0
+[release/v1.20.1-1.143.0]: https://github.com/klikli-dev/occultism/compare/release/v1.20.1-1.142.0...release/v1.20.1-1.143.0
+[release/v1.20.1-1.144.0]: https://github.com/klikli-dev/occultism/compare/release/v1.20.1-1.143.0...release/v1.20.1-1.144.0
+[release/v1.20.1-1.145.0]: https://github.com/klikli-dev/occultism/compare/release/v1.20.1-1.144.0...release/v1.20.1-1.145.0
+[release/v1.20.1-1.146.0]: https://github.com/klikli-dev/occultism/compare/release/v1.20.1-1.145.0...release/v1.20.1-1.146.0
+[release/v1.20.1-1.147.0]: https://github.com/klikli-dev/occultism/compare/release/v1.20.1-1.146.0...release/v1.20.1-1.147.0
+[release/v1.20.1-1.148.0]: https://github.com/klikli-dev/occultism/compare/release/v1.20.1-1.147.0...release/v1.20.1-1.148.0
+[release/v1.20.1-1.149.0]: https://github.com/klikli-dev/occultism/compare/release/v1.20.1-1.148.0...release/v1.20.1-1.149.0
+[release/v1.20.1-1.150.0]: https://github.com/klikli-dev/occultism/compare/release/v1.20.1-1.149.0...release/v1.20.1-1.150.0
+[release/v1.20.1-1.151.0]: https://github.com/klikli-dev/occultism/compare/release/v1.20.1-1.150.0...release/v1.20.1-1.151.0
